@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dccdd012",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How many times did you skip school?",
+    "schema:description": "TIMES",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
